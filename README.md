@@ -1,2 +1,2 @@
 # hello-word
-this is my first repository and it just example
+this is my first repository and it's just example
